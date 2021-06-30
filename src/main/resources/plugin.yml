@@ -1,0 +1,8 @@
+name: DellunaBank
+version: ${project.version}
+main: me.lewin.dellunabank.Main
+api-version: 1.17
+commands:
+  cash :
+    description: open bank menu
+    usage: /cash
